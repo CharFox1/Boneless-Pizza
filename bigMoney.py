@@ -10,7 +10,7 @@ import pytz
 # number of days in the UMBC Spring 2019 academic calendar
 defaultDays = 114
 # standard CMSC 201 UTA pay (hourly)
-defaultPay = 10.15
+defaultPay = 10.10
 # how many hours worked a week
 hoursPerWeek = 10
 # how many full weeks worked
